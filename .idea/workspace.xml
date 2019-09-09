@@ -20,9 +20,6 @@
       <change afterPath="$PROJECT_DIR$/../class_HCN/Rectangle.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../class_HCN/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../class_HCN/rect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cylinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/.idea/class_quadratic_equation.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/.idea/misc.xml" afterDir="false" />
@@ -136,7 +133,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QaBvb1pMVZs4LfmD8hDFA7guVD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -166,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567999057145</updated>
-      <workItem from="1567999058598" duration="2572000" />
+      <workItem from="1567999058598" duration="2868000" />
     </task>
     <servers />
   </component>
